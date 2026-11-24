@@ -1,10 +1,12 @@
 ## Create a git repository using command line
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/priteea2013/studentpeformance2026
-git push -u origin main
+1. git init
+2. git add README.md
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin https://github.com/priteea2013/studentpeformance2026
+# If you get remote origin already exists, Run the below instead of 5.
+# git remote set-url origin https://github.com/priteea2013/studentpeformance2026.git
+6. git push -u origin main
 
 ## End to End Machine Learning Project
 

@@ -1,4 +1,12 @@
-## End to End MAchine Learning Project
+## Create a git repository using command line
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/priteea2013/studentpeformance2026
+git push -u origin main
+
+## End to End Machine Learning Project
 
 1. Docker Build checked
 2. Github Workflow
@@ -35,3 +43,4 @@ AWS_REGION = ap-southeast-1
 AWS_ECR_LOGIN_URI = demo>>  548597179073.dkr.ecr.ap-southeast-1.amazonaws.com
 
 ECR_REPOSITORY_NAME = studentperformance
+# studentpeformance2026

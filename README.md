@@ -4,7 +4,7 @@
 3. git commit -m "first commit"
 4. git branch -M main
 5. git remote add origin https://github.com/priteea2013/studentpeformance2026
-6. # If you get remote origin already exists, Run this instead of 5. git remote set-url origin https://github.com/priteea2013/studentpeformance2026.git
+6. If you get remote origin already exists, Run this instead of 5. git remote set-url origin https://github.com/priteea2013/studentpeformance2026.git
 7. git push -u origin main
 
 ## End to End Machine Learning Project
